@@ -38,7 +38,7 @@ Oferecemos soluções digitais completas, com foco em **simplicidade, estética 
 
 ## 🧠 Tecnologias que usamos
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vscode,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c#,figma" />
 </p>
 
 ---
